@@ -1,15 +1,17 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: yarn cli seed does nothing and has unhelpful CLI documentation
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1  
+**Student:** Alfredo Benites  
+**Issue:** https://github.com/SwitchbackTech/compass-calendar/issues/1046  
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose this issue because I wanted to work on something backend-focused, but still realistic for my first open source contribution. The issue is about the seed CLI command in Compass showing confusing output because its help menu looks the same as the migrate command. I liked that the problem was specific enough for me to understand: the command works through the project’s CLI/migrator system, but the output does not clearly explain what the seed command is supposed to do or how to use it.
+
+This issue also matches what I want to get better at. I have been building backend projects with APIs, databases, and command-line setup, so working on a TypeScript CLI connected to database seeding feels like a good next step.
 
 ---
 
